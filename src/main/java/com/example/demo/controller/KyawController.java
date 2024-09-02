@@ -1,7 +1,7 @@
 package com.example.demo.controller;
 
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.stereotype.Controller;
 
-@RestController
-public class KyawController {
+@Controller
+public class KyawControl {
 }
